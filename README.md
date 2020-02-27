@@ -39,3 +39,6 @@
     $ git config --global user.email "ljavierrodriguez@gmail.com"
 
 
+### Unir ramas (merge)
+
+    $ git merge master dev

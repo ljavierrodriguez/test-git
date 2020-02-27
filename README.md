@@ -41,4 +41,4 @@
 
 ### Unir ramas (merge)
 
-    $ git merge rama1 rama2
+    $ git merge master dev
